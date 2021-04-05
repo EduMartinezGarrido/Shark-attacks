@@ -11,7 +11,7 @@ En este análisis tratamos de demostrar unas hipótesis a través de un dataset 
 2. [Data](#Data)
 3. [Technologies](#Technologies)
 4. [Libraries](#Libraries)
-5. [Hypothese](#Hypothese)
+5. [Hypotheses](#Hypotheses)
 ## General Info
 ***
 En este análisis tratamos de demostrar unas hipótesis a través de un dataset obtenido de Kaggle https://www.kaggle.com/teajay/global-shark-attacks
