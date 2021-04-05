@@ -45,7 +45,7 @@ import src.funciones as fun
 ## Hypotheses
 **1. ¿LOS TIBURONES ATACAN A LOS SURFISTAS POR ERROR DE IDENTIDAD?**
 
-Vamos a intentar demostrar la teoria de que los tiburones atacan a los surfistas porque los confunden con algún animal.
+Vamos a intentar demostrar la teoría de que los tiburones atacan a los surfistas porque los confunden con algún animal.
 
 ![Image text](https://www.artsurfcamp.com/blog/wp-content/uploads/2017/04/eg.jpg)
 
