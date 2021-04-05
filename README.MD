@@ -45,10 +45,12 @@ import src.funciones as fun
 ## Hypotheses
 **1. ¿LOS TIBURONES ATACAN A LOS SURFISTAS POR ERROR DE IDENTIDAD?**
 
-Vamos a intentar demostrar la teoria de que los tiburones atacan a los surfistas porque los confunden con algún animal como tortugas, focas etc.
+Vamos a intentar demostrar la teoria de que los tiburones atacan a los surfistas porque los confunden con algún animal.
+
+![Image text](https://www.artsurfcamp.com/blog/wp-content/uploads/2017/04/eg.jpg)
 
 **2. ¿EL ATAQUE ES MAS VIOLENTO SI ERES HOMBRE O MUJER HACIENDO SURF?**
 
 Trataremos de buscar si existe una relación directa entre ser mujer u hombre, y la violencia con la que son atacados.
 
-
+![Image text](https://margruesa.com/wp-content/uploads/2018/02/surf-hombres-mujeres-premios-9928.jpg)
