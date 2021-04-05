@@ -1,0 +1,75 @@
+# Análisis ataque de tiburones con dataframes
+![Image text](https://www.lafragua.run/wp-content/uploads/2019/01/Traje-de-surf-resistente-a-mordeduras-de-tiburo%CC%81n-2-696x392.jpg)
+
+En este análisis tratamos de demostrar unas hipótesis a través de un dataset obtenido de Kaggle https://www.kaggle.com/teajay/global-shark-attacks
+
+
+
+
+## Table of Contents
+1. [General Info](#general-info)
+2. [Data](#Data)
+3. [Technologies](#Technologies)
+4. [Libraries](#Libraries)
+5. [Hypothese](#Hypothese)
+## General Info
+***
+En este análisis tratamos de demostrar unas hipótesis a través de un dataset obtenido de Kaggle https://www.kaggle.com/teajay/global-shark-attacks
+## Data
+***
+Este dataset contiene datos tanto categoricos como cuantitaivos, por ello haremos un data cleaning.
+
+Data cleaning:
+- Eliminar valores repetidos o nulos
+- Filtrar columnas que vamos a usar
+- Renombrar columnas
+- Limpiar columnas que vamos a usar
+
+## Technologies
+***
+A list of technologies used within the project:
+* [Jupyter Notebook](https://jupyter.org/) : Version 6.1.4
+* [Python](https://www.python.org/): Version 3.8.5
+* [Visual Studio Code](https://code.visualstudio.com/)
+## Libraries
+***
+A little intro about libraries. 
+```
+import pandas as pd
+import numpy as np
+import re
+import matplotlib.pyplot as plot
+import src.funciones as fun
+```
+
+## Hypotheses
+**1. ¿LOS TIBURONES ATACAN A LOS SURFISTAS POR ERROR DE IDENTIDAD?**
+
+Vamos a intentar demostrar la teoria de que los tiburones atacan a los surfistas porque los confunden con algún animal como tortugas, focas etc.
+
+**2. ¿EL ATAQUE ES MAS VIOLENTO SI ERES HOMBRE O MUJER HACIENDO SURF?**
+
+Trataremos de buscar si existe una relación directa entre ser mujer u hombre, y la violencia con la que son atacados.
+
+## Collaboration
+***
+Give instructions on how to collaborate with your project.
+> Maybe you want to write a quote in this part. 
+> It should go over several rows?
+> This is how you do it.
+## FAQs
+***
+A list of frequently asked questions
+1. **This is a question in bold**
+Answer of the first question with _italic words_. 
+2. __Second question in bold__ 
+To answer this question we use an unordered list:
+* First point
+* Second Point
+* Third point
+3. **Third question in bold**
+Answer of the third question with *italic words*.
+4. **Fourth question in bold**
+| Headline 1 in the tablehead | Headline 2 in the tablehead | Headline 3 in the tablehead |
+|:--------------|:-------------:|--------------:|
+| text-align left | text-align center | text-align right |
