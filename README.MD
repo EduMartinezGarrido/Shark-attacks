@@ -17,7 +17,7 @@ En este análisis tratamos de demostrar unas hipótesis a través de un dataset 
 En este análisis tratamos de demostrar unas hipótesis a través de un dataset obtenido de Kaggle https://www.kaggle.com/teajay/global-shark-attacks
 ## Data
 ***
-Este dataset contiene datos tanto categoricos como cuantitaivos, por ello haremos un data cleaning.
+Este dataset contiene datos tanto categóricos como cuantitaivos, por ello haremos un data cleaning.
 
 Data cleaning:
 - Eliminar valores repetidos o nulos
